@@ -1,0 +1,26 @@
+# Build output
+cmake-build-debug/
+cmake-build-release/
+build/
+bin/
+*.dll
+*.so
+*.dylib
+*.exe
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
