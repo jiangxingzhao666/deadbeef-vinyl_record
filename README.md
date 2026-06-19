@@ -16,7 +16,7 @@ When music plays, the vinyl spins. When paused or stopped, it stays still. Album
 
 ## Screenshots
 
-*(add screenshots here)*
+![Vinyl Record Screenshot](img/Snipaste_2026-06-19_14-02-27.png)
 
 ## Requirements
 
