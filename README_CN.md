@@ -1,5 +1,7 @@
 # DeaDBeeF Vinyl Record 插件
 
+[English](README.md) | 中文版
+
 [DeaDBeeF](http://deadbeef.sourceforge.net) 音频播放器插件，将专辑封面渲染为逼真的旋转黑胶唱片。
 
 音乐播放时唱片旋转，暂停/停止时静止。专辑封面显示在唱片中央。

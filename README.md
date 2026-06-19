@@ -1,5 +1,7 @@
 # DeaDBeeF Vinyl Record Plugin
 
+[中文版](README_CN.md) | English
+
 A [DeaDBeeF](http://deadbeef.sourceforge.net) audio player plugin that displays album art as a realistic rotating vinyl record.
 
 When music plays, the vinyl spins. When paused or stopped, it stays still. Album art is shown in the center of the record.
